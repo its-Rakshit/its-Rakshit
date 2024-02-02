@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakshit Halembre</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-# 💫 About Me:
 
 🌍  I'm based in Bengaluru <br/>
 ✉️  You can contact me at [itsrakshithalembre@gmail.com](mailto:itsrakshithalembre@gmail.com)
